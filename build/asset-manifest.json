@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa59b212.css",
+    "main.js": "/static/js/main.2ba395d4.js",
+    "static/media/logo-megaphone.png": "/static/media/logo-megaphone.8c57a60c54c59c03ee25.png",
+    "index.html": "/index.html",
+    "main.aa59b212.css.map": "/static/css/main.aa59b212.css.map",
+    "main.2ba395d4.js.map": "/static/js/main.2ba395d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa59b212.css",
+    "static/js/main.2ba395d4.js"
+  ]
+}
